@@ -1,0 +1,22 @@
+# Core Dependencies
+streamlit==1.31.0
+langchain==0.1.10
+langchain-anthropic==0.1.4
+
+# Vector Database
+chromadb==0.4.22
+
+# Data Processing
+
+numpy==1.26.3
+
+# Database
+sqlalchemy==2.0.25
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.6.1
+datetime
+
+# Visualization
+plotly==5.18.0
