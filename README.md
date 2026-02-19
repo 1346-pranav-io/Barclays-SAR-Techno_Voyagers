@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAR Narrative Generator with Audit Trail
 
 ## 🎯 Overview
@@ -330,3 +331,4 @@ This tool assists in SAR narrative drafting but does NOT replace human judgment.
 **Version**: 1.0.0 (MVP)  
 **Last Updated**: February 2025  
 **Status**: Production-ready MVP
+=======
